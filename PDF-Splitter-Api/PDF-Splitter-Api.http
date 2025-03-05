@@ -1,0 +1,6 @@
+@PDF_Splitter_Api_HostAddress = http://localhost:5095
+
+GET {{PDF_Splitter_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

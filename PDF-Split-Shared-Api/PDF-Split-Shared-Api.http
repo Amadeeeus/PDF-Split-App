@@ -1,0 +1,6 @@
+@PDF_Split_Shared_Api_HostAddress = http://localhost:5156
+
+GET {{PDF_Split_Shared_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
