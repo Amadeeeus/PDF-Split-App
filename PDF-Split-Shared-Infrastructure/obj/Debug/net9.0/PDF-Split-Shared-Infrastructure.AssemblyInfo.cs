@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDF-Split-Shared-Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf803685067378aaa2699d42fe965f5c71c56cf9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31078072a3f113a4b176bda338841765e5ce310b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDF-Split-Shared-Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDF-Split-Shared-Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

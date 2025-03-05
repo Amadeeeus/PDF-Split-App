@@ -7,4 +7,11 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\PDF-Split-Orchestrator-Api\PDF-Split-Orchestrator-Api.csproj" />
+      <ProjectReference Include="..\PDF-Split-Orchestrator-Domain\PDF-Split-Orchestrator-Domain.csproj" />
+      <ProjectReference Include="..\PDF-Split-Orchestrator-Infrastructure\PDF-Split-Orchestrator-Infrastructure.csproj" />
+      <ProjectReference Include="..\PDF-Split-Shared-Domain\PDF-Split-Shared-Domain.csproj" />
+    </ItemGroup>
+
 </Project>
