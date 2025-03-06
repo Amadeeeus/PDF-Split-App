@@ -25,6 +25,74 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Amadeeus\\RiderProjects\\PDF-Split-App\\PDF-Split-Orchestrator-Shared\\PDF-Split-Orchestrator-Shared.csproj": {
+                "projectPath": "C:\\Users\\Amadeeus\\RiderProjects\\PDF-Split-App\\PDF-Split-Orchestrator-Shared\\PDF-Split-Orchestrator-Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Amadeeus\\RiderProjects\\PDF-Split-App\\PDF-Split-Orchestrator-Shared\\PDF-Split-Orchestrator-Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amadeeus\\RiderProjects\\PDF-Split-App\\PDF-Split-Orchestrator-Shared\\PDF-Split-Orchestrator-Shared.csproj",
+        "projectName": "PDF-Split-Orchestrator-Shared",
+        "projectPath": "C:\\Users\\Amadeeus\\RiderProjects\\PDF-Split-App\\PDF-Split-Orchestrator-Shared\\PDF-Split-Orchestrator-Shared.csproj",
+        "packagesPath": "C:\\Users\\Amadeeus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amadeeus\\RiderProjects\\PDF-Split-App\\PDF-Split-Orchestrator-Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amadeeus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -42,6 +110,24 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

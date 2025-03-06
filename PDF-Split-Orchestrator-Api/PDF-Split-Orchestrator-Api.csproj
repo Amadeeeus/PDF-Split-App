@@ -12,7 +12,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\PDF-Split-Shared-Domain\PDF-Split-Shared-Domain.csproj" />
+      <ProjectReference Include="..\PDF-Split-Orchestrator-Shared\PDF-Split-Orchestrator-Shared.csproj" />
     </ItemGroup>
 
 </Project>

@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF-Splitter-Application", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF-Splitter-Api", "PDF-Splitter-Api\PDF-Splitter-Api.csproj", "{3671EA94-C3F5-49FF-A5FF-26ECFA04489A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF-Split-Orchestrator-Shared", "PDF-Split-Orchestrator-Shared\PDF-Split-Orchestrator-Shared.csproj", "{B6021A9B-9148-493F-9E34-33541E929B8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,7 @@ Global
 		{5A816A60-5B21-45CA-A9A6-1E875785B768} = {619C66F0-DA77-426B-94F6-DA03F723A292}
 		{521EFAB2-1E18-4186-A467-131EB18E4C78} = {619C66F0-DA77-426B-94F6-DA03F723A292}
 		{3671EA94-C3F5-49FF-A5FF-26ECFA04489A} = {619C66F0-DA77-426B-94F6-DA03F723A292}
+		{B6021A9B-9148-493F-9E34-33541E929B8C} = {FD67E797-0539-455C-A75E-AF62EF85AD92}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{952718E9-7ACA-4485-9AAC-556EEC8CC4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -98,5 +101,9 @@ Global
 		{3671EA94-C3F5-49FF-A5FF-26ECFA04489A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3671EA94-C3F5-49FF-A5FF-26ECFA04489A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3671EA94-C3F5-49FF-A5FF-26ECFA04489A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6021A9B-9148-493F-9E34-33541E929B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6021A9B-9148-493F-9E34-33541E929B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6021A9B-9148-493F-9E34-33541E929B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6021A9B-9148-493F-9E34-33541E929B8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

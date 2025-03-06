@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDF-Splitter-Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31078072a3f113a4b176bda338841765e5ce310b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b656ef7250bc45199fe8a4d3ed97ab0c16873fd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDF-Splitter-Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDF-Splitter-Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
